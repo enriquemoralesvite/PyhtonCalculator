@@ -14,4 +14,4 @@ A simple and efficient calculator built with Python, capable of performing basic
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/PythonCalculator.git  
+   git clone https://github.com/enriquemoralesvite/PythonCalculator.git  
